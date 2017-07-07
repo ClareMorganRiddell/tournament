@@ -7,7 +7,7 @@ My final project for the full-stack option  of the Udacity Nano Degree program "
 
     You will need to have [Vagrant] and [Virtual Box] installed on your computer in order  to  run this code
 
-    Fork this repository to get the Database and python code, [and this one] to get the VM. 
+    All files required are in this repository, including the VM reqired.
 
 - Naviagate
 
