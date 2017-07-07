@@ -1,4 +1,3 @@
-1234567890123456789012345678901234567890123456789012345678901234567890123456789
 #!/usr/bin/env python
 # 
 # tournament.py -- implementation of a Swiss-system tournament
