@@ -1,6 +1,14 @@
 # tournament
 My final project for the full-stack option  of the Udacity Nano Degree program "Introduction to Programming". 
 
+### *Project Description* : *Tournament Planner*
+
+_In this project, you’ll be writing a Python module that uses the PostgreSQL database to keep track of players and matches in a game tournament._
+
+_The game tournament will use the Swiss system for pairing up players in each round: players are not eliminated, and each player should be paired with another player with the same number of wins, or as close as possible._
+
+_This project has two parts: defining the database schema (SQL table definitions), and writing the code that will use it._
+
 ## Install
 
 * Download and Install
